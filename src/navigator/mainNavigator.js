@@ -2,7 +2,7 @@ import { createAppContainer } from 'react-navigation';
 import { createStackNavigator } from 'react-navigation-stack';
 import {createDrawerNavigator} from 'react-navigation-drawer';
 
-import SplashScreen from "./screens/index.js";
+import LoginSignup from "../features/LoginAndSignup1199691/navigator.js";
 import SideMenu from './sideMenu';
 //@BlueprintImportInsertion
 
